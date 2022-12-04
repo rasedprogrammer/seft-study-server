@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "HTML",
+    "image": "https://www.w3docs.com/uploads/media/book_gallery/0001/02/ea50fd5ac033ccb1ab19a9aa4f1135464bbc1399.png"
+  },
+  {
+    "id": "02",
+    "name": "CSS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png"
+  },
+  {
+    "id": "03",
+    "name": "Bootstrap",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"
+  },
+  {
+    "id": "04",
+    "name": "JavaScript",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+  },
+  {
+    "id": "05",
+    "name": "ReactJS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
+  },
+  {
+    "id": "06",
+    "name": "NodeJS",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"
+  }
+]
