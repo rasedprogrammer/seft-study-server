@@ -25,5 +25,5 @@ app.get("/courses", (req, res) => {
 });
 
 app.listen(port, () => {
-	console.log(`Server is running on ${port}`);
+	console.log(`Port Number ${port}`);
 });
